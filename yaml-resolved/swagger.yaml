@@ -19,7 +19,7 @@ paths:
         explode: true
         schema:
           type: string
-          default: World
+          default: Worlds
       responses:
         "200":
           description: OK
