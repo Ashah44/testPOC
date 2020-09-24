@@ -36,7 +36,7 @@ paths:
         content:
           application/json:
             schema:
-              $ref: '#/components/schemas/Greeting'
+              $ref: '#/components/schemas/Greetingsdlfsjdl'
         required: true
       responses:
         "200":
